@@ -6,10 +6,10 @@ public  class Integers{
         double d= 40;
         char k='a';
         boolean e=true;
-                System.out.println("jjthe addition"+(a+b));
-                System.out.println("jjthe float"+c);
-                System.out.println("jjthe double"+d);
-                System.out.println("jjthe boolean "+e);
-                System.out.println("the cahr is "+k);
+                System.out.println("the addition"+(a+b));
+                System.out.println("the float"+c);
+                System.out.println("the double"+d);
+                System.out.println("the boolean "+e);
+                System.out.println("the chaar is "+k);
     }
 }
